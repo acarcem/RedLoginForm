@@ -1,0 +1,11 @@
+@mixin color-transition($color,$transition){
+    color: $color;
+    transition: $transition;
+  }
+  
+  @mixin flex-display($display,$align-items,$justify-content){
+    display: $display;
+    align-items: $align-items;
+    justify-content: $justify-content;
+  }
+  
