@@ -1,3 +1,3 @@
 # RedLoginForm
 
-[Link](https://acarcem.github.io/RedLoginForm/)
+[Link](https://acarcem.github.io/RedLoginForm/){:target="_blank"}
